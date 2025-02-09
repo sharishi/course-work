@@ -1,0 +1,4 @@
+soup: water, onion, carrot, potato, tomato, sugar, salt, peper, cabbage
+cream: milk, vanilla, butter, egg, sugar
+latte: milk, water, coffee, sugar
+dumplings: flour, meat, water, salt, sugar
